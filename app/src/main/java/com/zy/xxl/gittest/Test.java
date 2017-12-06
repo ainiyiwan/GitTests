@@ -8,5 +8,7 @@ package com.zy.xxl.gittest;
  */
 
 public class Test {
-    revert
+    public static void main(String[] args){
+        System.out.print("hello git !!");
+    }
 }
