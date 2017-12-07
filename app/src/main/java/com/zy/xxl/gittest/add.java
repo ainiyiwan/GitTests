@@ -9,5 +9,4 @@ package com.zy.xxl.gittest;
 
 public class add {
     hdfhdsfdf
-    Hello world
 }
